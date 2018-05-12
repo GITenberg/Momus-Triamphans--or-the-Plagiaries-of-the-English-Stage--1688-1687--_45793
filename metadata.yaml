@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '43454'
     url: http://www.gutenberg.org/2009/agents/43454
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45793#Momus-Triamphans--or-the-Plagiaries-of-the-English-Stage--1688-1687--
 gutenberg_issued: '2014-05-28'
 gutenberg_type: Text
 identifiers:
