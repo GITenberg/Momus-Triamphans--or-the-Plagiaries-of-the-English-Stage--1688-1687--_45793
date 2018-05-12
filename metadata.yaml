@@ -1,0 +1,32 @@
+_repo: Momus-Triamphans--or-the-Plagiaries-of-the-English-Stage--1688-1687--_45793
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Rodes, David Stuart
+    gutenberg_agent_id: '43455'
+    url: http://www.gutenberg.org/2009/agents/43455
+covers:
+- cover_type: archival
+  image_path: 45793-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Langbaine, Gerard
+    birthdate: 1656
+    deathdate: 1692
+    gutenberg_agent_id: '43454'
+    url: http://www.gutenberg.org/2009/agents/43454
+description: ''
+gutenberg_issued: '2014-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45793'
+  lccn: '72610815'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'English drama -- Bibliography'
+title: 'Momus Triumphans: or, the Plagiaries of the English Stage (1688[1687])'
+url: http://www.gutenberg.org/ebooks/45793
